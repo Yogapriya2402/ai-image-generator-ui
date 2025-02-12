@@ -1,1 +1,1 @@
-# ai-image-generator-ui
+# AI Image Generator UI
