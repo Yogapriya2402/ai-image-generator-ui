@@ -1,0 +1,22 @@
+.auth-card {
+    min-height: 100vh;
+}
+
+.auth-title {
+    font-size: 20px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+.show-password-button {
+    position: absolute;
+    padding: 0.3rem 0.4rem;
+    inset-block-start: 5px;
+    inset-inline-end: 5px;
+    background-color: var(--primary-mid-tint);
+    border-radius: 0.3rem;
+}
+
+.forgot-password {
+    color: var(--primary-ext-shade);
+}
